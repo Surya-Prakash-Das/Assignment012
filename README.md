@@ -1,1 +1,1 @@
-# Assignment012
+Documentation of Typescript concepts
